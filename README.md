@@ -20,6 +20,9 @@ Through span-based predictions and the incorporation of two pivotal regularizati
   
 - **Noise Perturbation Regularizer**: Adds a degree of noise resistance to the model, ensuring more robust synonym detection.
 
+<img width="500" src="https://github.com/fuzihaofzh/BioNER-SynGen/assets/1419566/f7f58c0d-6c31-4f92-bb24-a2cedd3419a8" alt="Your Image Description">
+
+
 ## Install 
 
 ```bash
