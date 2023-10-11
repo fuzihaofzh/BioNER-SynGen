@@ -9,3 +9,14 @@
 </div>
 
 [[Paper (Full+Appendix)]](https://arxiv.org/pdf/2305.13066.pdf)
+
+
+# Install 
+
+```
+git clone https://github.com/fuzihaofzh/BioNER-SynGen
+cd BioNER-SynGen
+pip install -r requirements.txt
+```
+
+# Train
