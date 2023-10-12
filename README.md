@@ -7,9 +7,9 @@
 <sup>3</sup>School of Computing Science, University of Glasgow
 </div>
 
+[![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2305.13066.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[[Paper (Full+Appendix)]](https://arxiv.org/pdf/2305.13066.pdf)
 
 ## Introduction
 BioNER-SynGen is a cutting-edge Synonym Generalization (SynGen) framework designed to enhance the task of biomedical named entity recognition. This work aims to solve the synonym generalization problem associated with dictionary-based methods, which often miss out on recognizing biomedical concept synonyms not listed in their respective dictionaries.
