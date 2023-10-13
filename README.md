@@ -1,5 +1,5 @@
 # <div align="center">Biomedical Named Entity Recognition via Dictionary-based Synonym Generalization</div>
-<div align="center"><b>Zihao Fu,<sup>1</sup> Yixuan Su,<sup>2</sup> Zaiqiao Meng,<sup>3,1</sup> Nigel Collier<sup>1</sup></b></div>
+<div align="center"><b>Zihao Fu,<sup>1</sup> Yixuan Su,<sup>1,2</sup> Zaiqiao Meng,<sup>3,1</sup> Nigel Collier<sup>1</sup></b></div>
 
 <div align="center">
 <sup>1</sup>Language Technology Lab, University of Cambridge<br>
