@@ -56,6 +56,9 @@ Do note, the scores might differ slightly from the results in the paper due to:
 1. The inherent randomness when training neural networks.
 2. We run each experiment 10 times with different random seeds to mitigate this randomness and report the average score.
 
+## Use Your Own Dictionay
+Kindly create a dictionary file that matches the format of "datasets/umls/umlsdi.txt". Once done, replace the original file with your newly-created dictionary and execute the "scripts/run_ncbi.sh" script.
+
 ## Cite
 If you find our research and code beneficial, please consider citing our work:
 
