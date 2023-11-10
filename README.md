@@ -9,6 +9,7 @@
 
 [![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2305.13066.pdf)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=nJnV_TcOAQA)
+[![Slides](https://img.shields.io/badge/View-Slides-green.svg)](https://github.com/fuzihaofzh/BioNER-SynGen/blob/main/BioNER-slides.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
